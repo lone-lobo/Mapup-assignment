@@ -121,7 +121,7 @@ The resulting DataFrame should add 5 columns to the input DataFrame: `moto`, `ca
 - 3.6 for `truck`
 
 Sample result dataframe:\
- ![Task 2 Question 4](readme_images/task2-q4.png)
+  ![Task 2 Question 4](readme_images/task2-q4.png)
 
 ## Question 5: Calculate Time-Based Toll Rates
 
